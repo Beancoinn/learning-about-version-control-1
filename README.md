@@ -5,4 +5,4 @@
   
 
 
-Solving merge conflicts is Easy!
+Solving merge conflicts takes conscious effort, but I can do it!
